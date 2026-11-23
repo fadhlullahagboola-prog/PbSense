@@ -1,0 +1,26 @@
+# KiCad
+*-backups/
+*.kicad_prl
+fp-info-cache
+*.bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+_autosave-*
+~*.lck
+*-cache.lib
+*.rescue
+
+# Arduino / ESP32
+build/
+.pio/
+*.elf
+*.bin
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.history/
+
+# Keep fabrication output
+!hardware/fabrication/*.zip
