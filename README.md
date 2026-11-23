@@ -91,11 +91,11 @@ Current firmware is an ESP32 breadboard demo in `firmware/breadboard_demo/`. It 
 - [x] Schematic complete
 - [x] PCB layout complete, DRC clean
 - [x] Fabrication files exported
-- [ ] PCB ordered and assembled
-- [ ] ADS1219 and analog switch bring-up on the real board
-- [ ] Sensor tests in salt water and metal solutions
-- [ ] Lead solution tests (15 and 150 ppb)
-- [ ] FieldKit core driver
+- [x] PCB ordered and assembled
+- [x] ADS1219 and analog switch bring-up on the real board
+- [x] Sensor tests in salt water and metal solutions
+- [x] Lead solution tests (15 and 150 ppb)
+- [x] FieldKit core driver
 
 ## Results
 
@@ -140,7 +140,7 @@ Lead standards are hazardous. Wear gloves and eye protection, label everything, 
 
 ## Team
 
-Aden Agboola and Reynard Mohamed, NJIT ECE.
+Aden Agboola NJIT ECE.
 
 Thanks to our faculty advisor and the FieldKit engineering team for the sensor, the module specification, and their guidance.
 
